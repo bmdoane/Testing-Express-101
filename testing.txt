@@ -38,6 +38,9 @@ Next to github icon on travis project page click on build
 - select markdown from second field
 - copy and paste address into readme
 
---- 
+---
+
+Supertest
+sets up express for testing 
 
 
