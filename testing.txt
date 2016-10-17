@@ -36,6 +36,8 @@ Travis interacts with github and runs tests when pull requests happen.  Then thi
 
 Next to github icon on travis project page click on build
 - select markdown from second field
-- copy and paste address into readme 
+- copy and paste address into readme
+
+--- 
 
 
