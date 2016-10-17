@@ -27,6 +27,11 @@ touch .travis.yml file and add node objects
 
 git push branch and you will see results in travis-ci current tab
 
-Main purpose is to test what versions your project supports 
+Main purpose is to test what versions your project supports
+
+Change travis.yml to supported versions and all should pass
+- see commit history for changes
+
+Travis interacts with github and runs tests when pull requests happen.  Then this will be reflected on github commits. 
 
 
