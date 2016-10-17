@@ -1,0 +1,17 @@
+### Testing-Express-101
+
+Install Mocha and Chai
+
+Mocha is a CL tool
+- add "test": "mocha" to scripts in package.json
+
+Chai is an assertion library
+When working with it have the docs open
+
+Write basic true test.
+
+Always write a failing test first.  Then you know it works.
+
+npm test - in cli to see results
+
+
