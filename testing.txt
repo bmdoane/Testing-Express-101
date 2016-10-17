@@ -32,6 +32,12 @@ Main purpose is to test what versions your project supports
 Change travis.yml to supported versions and all should pass
 - see commit history for changes
 
-Travis interacts with github and runs tests when pull requests happen.  Then this will be reflected on github commits. 
+Travis interacts with github and runs tests when pull requests happen.  Then this will be reflected on github commits.
+
+Next to github icon on travis project page click on build
+- select markdown from second field
+- copy and paste address into readme
+
+--- 
 
 
