@@ -15,3 +15,12 @@ Always write a failing test first.  Then you know it works.
 npm test - in cli to see results
 
 
+CONTINUOUS INTEGRATION
+Travis-CI.org
+Sign in
+This grabs repos off of github
+In "My Repositories" click on + link to add repository
+Click on settings icon next to repo checkmark
+Keep "Current" tab open in browser 
+
+
