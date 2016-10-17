@@ -21,6 +21,12 @@ Sign in
 This grabs repos off of github
 In "My Repositories" click on + link to add repository
 Click on settings icon next to repo checkmark
-Keep "Current" tab open in browser 
+Keep "Current" tab open in browser
+
+touch .travis.yml file and add node objects
+
+git push branch and you will see results in travis-ci current tab
+
+Main purpose is to test what versions your project supports 
 
 
