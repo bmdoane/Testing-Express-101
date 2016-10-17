@@ -41,6 +41,8 @@ Next to github icon on travis project page click on build
 ---
 
 Supertest
-sets up express for testing 
+sets up express for testing
+supertest handles listening from express
+When you build out server.js for testing it isn't required 
 
 
